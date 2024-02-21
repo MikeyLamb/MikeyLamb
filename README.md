@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Michael Lambrecht
-- 👀 I’m a self-proclaimed remote sensing and GIS nerd who is fascinated by the applications of these fields in conservation and agriculture
-- 🌱 I’m currently learning and exploring data science, machine learning and deep learning.
+- 👀 I’m a self-proclaimed remote sensing and GIS nerd who is fascinated by the applications of these fields in conservation and agriculture.
+- 🌱 I’m currently furthering myy knowledge of data science and machine learning.
