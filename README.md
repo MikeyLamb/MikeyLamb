@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Michael Lambrecht
-- 👀 I’m a self-proclaimed remote sensing and GIS nerd who is fascinated by the applications of these fields in conservation and agriculture.
-- 🌱 I’m currently furthering myy knowledge of data science and machine learning.
+- 👀 I’m currently furthering my knowledge of data science and machine learning.
+- 🌱 A self-proclaimed remote sensing and GIS nerd who is fascinated by the applications of these fields.
+- :technologist: Current project: testing pretrained dl models to map beaches on the West Coast of South Africa.
