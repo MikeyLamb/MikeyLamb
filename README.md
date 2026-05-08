@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Michael Lambrecht<br>👀 I’m currently furthering my knowledge of data engineering and backend APi development.<br>🌱 A self-proclaimed data nerd who is fascinated by the sustainability field.<br>🧑‍💻 Current project: A bit of this and a bit of that full stacking web development.
+👋 Hi, I’m Michael Lambrecht<br>👀 I’m currently furthering my knowledge of data engineering and backend API development.<br>🌱 A self-proclaimed data nerd who is fascinated by the sustainability field.<br>🧑‍💻 Current project: A bit of this and a bit of that full stacking web development.
 
 
 ## 🌐 Socials:
